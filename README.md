@@ -1,2 +1,2 @@
-# digital-_literacy
+# digital_literacy
 digital literacy project
