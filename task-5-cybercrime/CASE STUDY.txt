@@ -1,0 +1,55 @@
+Case Study: UPI / Online Payment Fraud
+
+Cybercrime Type: UPI/Online Payment Fraud
+
+Prepared by: Astitva Negi | Digital Ambassador Project Module 5
+
+What Is UPI Payment Fraud?
+
+UPI payment fraud is a kind of scam where people get tricked into doing transactions through Indias digital payment system. This is different from bank fraud. It uses psychology to trick people, which makes it very bad for users.
+
+-> How It Typically Happens. Step by Step
+
+1. Contact: Scammers call or message victims on their phone or they send them messages on WhatsApp. They pretend to be people who work at banks or customer care agents or buyers on websites like OLX or Quikr.
+
+2. Building Trust: They tell the victims that there is a problem with their account or that they need to update some information. They might also say they want to pay for something the victim is selling. They make the victim feel like they have to do something away like "if you do not do this your account will be blocked in 24 hours".
+
+3. The Deception: Scammers send a request to the victim on their UPI app. They tell the victim "I am sending you ₹5,000 just enter your PIN to get it".
+
+4. The Victims Mistake: The victim thinks they are getting money so they enter their UPI PIN.. Really this lets the scammer take money out of their account.
+
+5. Money Gone: The money gets transferred away. It is very hard to get the money back once it is gone because UPI transactions happen fast.
+
+6. Disappearance: The scammer blocks the victim away so they cannot talk to them anymore.
+
+-> Who Is Usually Targeted?
+
+- People who are using UPI for the first time and do not know how it works
+
+- Sellers on websites like OLX who are waiting to get paid by people they do not know
+
+- Older people who are not used to digital payments
+
+- Students and young adults who get fake job offers or scholarship payments that are actually scams
+
+-> Consequences
+
+Impact Details
+
+Financial Loss: People usually lose ₹5,000 to ₹2,00,000 or more in one transaction
+
+Irreversibility: UPI transactions happen in seconds and cannot be reversed without help from the bank and NPCI
+
+Psychological Harm: Victims feel ashamed, anxious and do not trust digital payments anymore
+
+Legal Complexity: It is hard to get the money back and many cases are not solved because it is hard to find the scammer
+
+Repeat Targeting: If someone gets targeted once they might get targeted again because they are seen as vulnerable
+
+Real-World Context
+
+The Indian Cyber Crime Coordination Centre says that UPI fraud is a big part of cybercrime complaints. In 2023-24 many UPI-related financial frauds were part of the 15+ lakh complaints that were filed over the country.
+
+Source: Ministry of Home Affairs Annual Report, on Cybercrime, 2023-24
+
+This case study is made to raise awareness, about UPI payment fraud. No personal stories are shared.
